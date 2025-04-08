@@ -98,7 +98,6 @@ Node.js server SSE implementing Model Context Protocol (MCP) for filesystem oper
     - Directories that this server can read/write from
 
 ## Usage with Cherry Stdio Desktop
-Add this to your `claude_desktop_config.json`:
 
 Note: you can provide sandboxed directories to the server by mounting them to `/projects`. Adding the `ro` flag will make the directory readonly by the server.
 
@@ -137,7 +136,7 @@ npm install
 
 #### 2. run:
 ```bash
-node .\dist\index.js C:\Users\User\Desktop\projectUser
+node .\dist\index.js C:\Users\User\Desktop\project
 ```
 allowed directories: `C:\Users\User\Desktop\project`
 #### 3. config:
