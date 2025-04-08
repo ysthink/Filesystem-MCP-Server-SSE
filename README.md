@@ -137,9 +137,9 @@ npm install
 
 #### 2. run:
 ```bash
-node .\dist\index.js C:\Users\10185\Desktop\project
+node .\dist\index.js C:\Users\User\Desktop\projectUser
 ```
-allowed directories: `C:\Users\10185\Desktop\project`
+allowed directories: `C:\Users\User\Desktop\project`
 #### 3. config:
 ```json
 {
