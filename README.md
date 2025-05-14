@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ysthink-filesystem-mcp-server-sse-badge.png)](https://mseep.ai/app/ysthink-filesystem-mcp-server-sse)
+
 # Filesystem MCP Server SSE
 
 Node.js server SSE implementing Model Context Protocol (MCP) for filesystem operations.
